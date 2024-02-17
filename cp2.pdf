@@ -1,0 +1,51 @@
+Clase Práctica #2
+1. Compute la cantidad de divisores de 𝑛.
+2. Sean 𝑎, 𝑏, enteros primos relativos y n natural. Calcule (𝑎 ∗ 𝑏, 𝑎 + 𝑏),
+(𝑎 + 𝑏, 𝑎 − 𝑏), (𝑎 + 𝑏, 𝑎2 + 𝑏2
+3. Si 𝑝 y 𝑝
+• Si 𝑎
+𝑎
+(𝑛,𝑚) − 1.
+10. Demuestre que 𝑛
+) , (𝑛2 + 1, (𝑛 + 1)2 + 1).
+2 + 2 son primos, entonces 𝑝
+divisibles por 𝑏.
+3 + 2 es primo.
+4. Sean 𝑎, 𝑏 naturales, cuantos numeros de la secuencia 𝑎, 2𝑎, 3𝑎, ..., 𝑏𝑎 son
+5. Sea 𝑃 (𝑥) un polinomio con coeficientes enteros, tal que 𝑃(𝑎) = 𝑃 (𝑎+1) =
+𝑃(𝑎 + 2) = 1, existira algun K, tal que 𝑃(𝑘) = 8.
+6. Demuestre que existen infinitas secuencias de 𝑛 numeros consecutivos com
+puestos.
+7. Sean 𝑎, 𝑛 > 1, demuestre que:
+• Si 𝑎
+𝑛 − 1 es primo entonces 𝑎 = 2 y 𝑛 es primo.
+𝑛 + 1 es primo entonces 𝑎 es par y 𝑛 una potencia de 2.
+8. Sean 𝑛, 𝑚 enteros positivos, con 𝑛 > 1 . Demuestre que (𝑎𝑛 −1, 𝑎𝑚 −1) =
+9. Sea 𝑛 > 4 . Demuestre que 𝑛|(𝑛 − 1)! ⟺ 𝑛 es compuesto.
+11. Sean 𝑎1
+, 𝑎2
+12 + 1 nunca sera primo, con 𝑛 > 1.
+, ..., 𝑎𝑛 numeros naturales. Demuestre que (𝑎𝑖
+todo par de 𝑖 ≠ 𝑗 ⟺ 𝑚𝑐𝑚(𝑎1
+, 𝑎2
+$1580. Cuantos apartamentos hay de cada tipo.
+14. Se define 𝑝1
+, 𝑝2
+, ..., tal que, 𝑝1 = 2 y 𝑝𝑖
+15. Sean 𝑝, 𝑞, 𝑟 primos y 𝑛 > 0 tales que: 𝑝
+17. Demuestre que ∀ 𝑛 ∈ ℤ+, 7 ∤ 𝑛2 + 1
+𝑛 + 𝑞𝑛 = 𝑟2
+, 𝑎𝑗
+, ..., 𝑎𝑛) = 𝑎1 ∗ 𝑎2 ∗ ... ∗ 𝑎𝑛
+) = 1 para
+12. Una inmobiliaria renta apartamentos del tipo A, cuyo alquiler es de $188,
+y apartamentos del tipo B, cuyo alquiler es de $508. Cuando todos los
+apartamentos del tipo A y B hayan sido rentados, la inmobiliaria recibira
+13. Demuestre que los numeros de fermat, son coprimos dos a dos, utilice este
+resultado para demostrar que los numeros primos son infinitos.
+el mayor primo que divide a
+𝑝1 ∗ 𝑝2 ∗ ... ∗ 𝑝𝑖−1 + 1. Demuestre que 5 no pertenece a la secuencia.
+. Prueba que 𝑛 = 1.
+16. Sea 𝑛, 𝑎, 𝑏 > 0 tal que (𝑎, 𝑏) = 1. Encuentre 𝑎, 𝑏 si 𝑎 + 𝑏|𝑎𝑛 + 𝑏𝑛.
+18. Demuestre que existen infinitos primos de la forma 4𝑛 + 3.
+19. Demuestre que si 𝑝 y 8𝑝 − 1 son primos entonces 8𝑝 + 1 es compuesto.
