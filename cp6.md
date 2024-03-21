@@ -1,4 +1,4 @@
-# Matemática Discreta I 
+Matemática Discreta I 
 ##  Clase Práctica \#6
 
 1. Sea el conjunto $\{1,2,...,n\}$ ¿de cuántas formas se pueden seleccionar $k$ enteros tales que no dos de ellos sean consecutivos?
@@ -65,3 +65,29 @@ $$x_1 + x_2 +...+ x_k = n$$
 $$\sum_{i =1}^n S_i$$
 
 15. Calcule el numero de arreglos de n elementos ordenados de mayor a menor donde cada elemento es un nuemro entre 1 y n.
+
+16. Sean A y B conjuntos finitos de $n$ y $m$ elementos respectivamente, calcule el número de funciones sobreyectivas de A en B.
+
+17. Sea $n$ un entero positivo primo relativo con 10, demuestre que $\forall d \in \{1, 2, ... , 9\}$ existen infinitos
+múltiplos de $n$ que tienen como único dígito a $d$.
+
+18. Demuestre que en un plano donde todos los puntos son negros o blancos, existe un rectángulo con los 4 vértices del mismo color.
+
+19. Sea A un conjunto de $n$ elementos y B una colección de subconjuntos de A tal que $|B| > 2^{n-1}$
+
+- a) Demuestre que existen dos conjuntos $A_i$ y $A_j$ tales que uno es subconjunto del otro
+
+- b) Existen dos conjuntos en B tales que $A_i \cup A_j = \emptyset$
+
+20. En una reunión hay 201 personas de 5 nacionalidades diferentes. Se sabe que en cada grupo de 6, hay al menos dos que tienen la misma edad.
+Demuestre que hay al menos 5 personas del mismo país, la misma edad y el mismo sexo.
+
+21. Determine el número de soluciones de la ecuacuón $$x_1 + x_2 + x_3 + x_4 = 21$$ tal que $$2 \leq x_1 \leq 5$$ $$3 \leq x_2 \leq 7$$ $$0 \leq x_3 \leq 6$$ $$2 \leq x_4 \leq 10$$
+
+22. Demuestre las siguientes identidades usando razonamientos combinatorios:
+
+- a) $$\sum_{k = 0}^{n} (-1)^k \binom{n}{k} = 0$$
+
+- b) $$\sum_{k=0}^{n} \binom{n}{k}² = \binom{2n}{n}$$
+
+- c) $$\sum_{k=1}^{n} k \binom{n}{k} = n2^{n-1}$$
